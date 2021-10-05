@@ -2,7 +2,7 @@
 
 <p align="justify" fontsize="8">
   
-  <img align="right" alt="Ebony SyS" height="280" src="https://i.im.ge/2021/10/05/Tv8aZr.png">
+  <img align="right" alt="Ebony SyS" height="252" src="https://i.im.ge/2021/10/05/Tv8aZr.png">
   ...aliada minha é a força e poderosa aliada ela é. A vida cria, crescer ela faz, é energia que cerca nós e liga nós. Luminosos seres somos nós, não essa rude matéria, VOCÊ PRECISA A FORÇA SENTIR AO REDOR SEU.
 
   <p align="center">
@@ -10,18 +10,7 @@
   </p>
   
 </p>
-
-<p align="center">  
-  <a href="https://github.com/Leon4rdoalves">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon4rdoalves&hide=html&layout=compact&theme=dark&show_icons=true" />
-  </a>
-  <a href="https://github.com/Leon4rdoalves">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Leon4rdoalves&theme=dark&show_icons=true" />
-  </a>
-</p>
-
-<hr/>
-
+</br>
 <p align="center">  
   <strong>| Hard </strong>Skill
   <img align="center" alt="Ebony SyS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -48,11 +37,24 @@
   <a href="https://www.youtube.com/channel/UCgMsaDIka3GpY3GSKSnUNZg" target="_blank"><img align="center" alt="Ebony SyS" height="30" width="30" src="https://user-images.githubusercontent.com/52077278/135925864-5eca65eb-3cb4-48f8-a26e-26d868b3def5.png"></a>
   <a href="https://www.youtube.com/channel/UC8fRZfYGd21_D8DwuEcFuHw" target="_blank"><img align="center" alt="Ebony SyS" height="30" width="30" src="https://user-images.githubusercontent.com/52077278/135925864-5eca65eb-3cb4-48f8-a26e-26d868b3def5.png"></a>
 </p>
-</br>
+<hr/>
 <p align="center">
-  <strong>Cursos ONLINE</strong> </br> 
+  <strong>Cursos ONLINE</strong></br> 
   <a href="https://www.superprof.com.br/logica-programacao-tudo-voce-precisa-saber-para-ser-bom-desenvolvedor.html">Lógica de Programação</a>&nbsp; &nbsp; 
   <a href="https://www.superprof.com.br/aprenda-python-maneira-correta-com-exercicios-fixacao-bonus-sobre-games.html">Python</a>&nbsp; &nbsp; 
   <a href="https://www.superprof.com.br/html-css-javascript-isso-mesmo-tudo-curso-basico-avancado.html">HTML + CSS + JS</a>&nbsp; &nbsp;    
   <a href="https://www.superprof.com.br/aulas-banco-dados-sql-basico-avancado-com-exercicios-para-dominio-das-rotinas.html">Banco de Dados</a>
 </p>
+<p align="center">  
+  <a href="https://github.com/Leon4rdoalves">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon4rdoalves&hide=html&layout=compact&theme=dark&show_icons=true" />
+  </a>
+  <a href="https://github.com/Leon4rdoalves">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leon4rdoalves&theme=dark&show_icons=true" />
+  </a>
+</p>
+
+
+
+
+
