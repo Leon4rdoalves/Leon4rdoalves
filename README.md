@@ -2,7 +2,7 @@
 
 <p align="justify" fontsize="8">
   
-  <img align="right" alt="Ebony SyS" height="230" src="https://i.im.ge/2021/10/05/Tv8aZr.png">
+  <img align="right" alt="Ebony SyS" height="232" src="https://i.im.ge/2021/10/05/Tv8aZr.png">
   ...aliada minha é a força e poderosa aliada ela é. A vida cria, crescer ela faz, é energia que cerca nós e liga nós. Luminosos seres somos nós, não essa rude matéria, VOCÊ PRECISA A FORÇA SENTIR AO REDOR SEU.
 
   <p align="center">
