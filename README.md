@@ -45,12 +45,12 @@
   <a href="https://www.superprof.com.br/html-css-javascript-isso-mesmo-tudo-curso-basico-avancado.html">HTML + CSS + JS</a>&nbsp; &nbsp;    
   <a href="https://www.superprof.com.br/aulas-banco-dados-sql-basico-avancado-com-exercicios-para-dominio-das-rotinas.html">Banco de Dados</a>
 </p>
-<p>  
+<p align="center">  
   <a href="https://github.com/Leon4rdoalves">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon4rdoalves&hide=html&layout=compact&theme=dark&show_icons=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon4rdoalves&hide=html&layout=compact&theme=dark&show_icons=true" />
   </a>
   <a href="https://github.com/Leon4rdoalves">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leon4rdoalves&theme=dark&show_icons=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leon4rdoalves&theme=dark&show_icons=true" />
   </a>
 </p>
 
