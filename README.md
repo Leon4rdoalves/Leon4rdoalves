@@ -54,7 +54,7 @@
   </a>
 </p>
 
-<p align="center"> Total de Visitas :detective: <br>
+<p align="center"><strong> Total de Visitas</strong> :detective: <br>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Leon4rdoalves/count.svg" />
 </p>
