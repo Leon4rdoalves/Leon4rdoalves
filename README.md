@@ -1,4 +1,4 @@
-<h2 align="left">iaee! 🖖 pera pera que estou organizando as coisas aqui!</h2>
+<h2 align="left">iaee! 🖖 </h2>
 
 <p align="justify" fontsize="8">
   
