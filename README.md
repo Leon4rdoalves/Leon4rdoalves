@@ -59,7 +59,7 @@
   </a>
 </p>
 
-<p align="center"><strong> Total de Visitas</strong> a partir de 26•10•21 :detective: <br>
+<p align="center"><strong> Total de Visitas</strong> a partir de 01•11•21 :detective: <br>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Leon4rdoalves/count.svg" />
 </p>
