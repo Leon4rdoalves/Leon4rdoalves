@@ -1,29 +1,21 @@
 <h2 align="left">iaee! 🖖🏾 </h2>
-
 <p align="justify" fontsize="8">
-  
   <img align="right" alt="Ebony SyS" height="234" src="https://i.im.ge/2021/10/05/Tv8aZr.png">
   ...aliada minha é a força e poderosa aliada ela é. A vida cria, crescer ela faz, é energia que cerca nós e liga nós. Luminosos seres somos nós, não essa rude matéria, VOCÊ PRECISA A FORÇA SENTIR AO REDOR SEU.
-
   <p align="center">
     📌 RJ → SP  &nbsp; &nbsp; 👨🏾‍🎓 Engenharia Civil &nbsp; 🎓 Sistema de Informação ◻◻◻◻◻◻◻◼ 
   </p>
-  
   <p align="center">
    📦  <a href="https://github.com/Ebony-SYS">Principais Repositórios</a>
   </p>
-  
   <p align="center">
     🟠 <a href=https://github.com/Ebony-Full-Stack>Para alunes da GENERATION</a>
   </p>
-  
-  
 </p>
 </br>
 <p align="center">  
   <strong>| Hard </strong>Skill
   <img align="center" alt="Ebony SyS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Ebony SyS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" /> 
   &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<strong>| Soft </strong>Skill's 
   <img align="center" alt="Ebony SyS" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Ebony SyS" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -62,7 +54,6 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Leon4rdoalves&theme=dark&show_icons=true" />
   </a>
 </p>
-
 <p align="center"><strong> Visitas</strong> a partir de 01•01•22 :detective: <br>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Leon4rdoalves/count.svg" />
