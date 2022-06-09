@@ -1,6 +1,6 @@
 <h2 align="left">iaee! 🖖🏾 </h2>
 <p align="justify" fontsize="8">
-  <img align="right" alt="Ebony SyS" height="234" src="https://i.im.ge/2021/10/05/Tv8aZr.png">
+  <img align="right" alt="Ebony SyS" height="235" src="https://i.im.ge/2021/10/05/Tv8aZr.png">
   ...aliada minha é a força e poderosa aliada ela é. A vida cria, crescer ela faz, é energia que cerca nós e liga nós. Luminosos seres somos nós, não essa rude matéria, VOCÊ PRECISA A FORÇA SENTIR AO REDOR SEU.
   <p align="center">
     📌 RJ → SP  &nbsp; &nbsp; 👨🏾‍🎓 Engenharia Civil &nbsp; 🎓 Sistema de Informação ◻◻◻◻◻◻◻◼ 
