@@ -3,7 +3,7 @@
   <img align="right" alt="Ebony SyS" height="235" src="https://i.im.ge/2021/10/05/Tv8aZr.png">
   ...aliada minha é a força e poderosa aliada ela é. A vida cria, crescer ela faz, é energia que cerca nós e liga nós. Luminosos seres somos nós, não essa rude matéria, VOCÊ PRECISA A FORÇA SENTIR AO REDOR SEU.
   <p align="center">
-    📌 RJ → SP  &nbsp; &nbsp; 👨🏾‍🎓 Engenharia Civil &nbsp; 🎓 Sistema de Informação ◻◻◻◻◻◻◻◼ 
+    📌 RJ → SP  &nbsp; &nbsp; 👨🏾‍🎓 Engenharia Civil &nbsp; 🎓 Sistema de Informação 
   </p>
   <p align="center">
    📦  <a href="https://github.com/Ebony-SYS">Principais Repositórios</a>
@@ -11,6 +11,10 @@
   <p align="center">
     🟠 <a href=https://github.com/Ebony-Full-Stack>Para alunes da GENERATION</a>
   </p>
+  <p align="center">
+    🚧 <a href=https://github.com/Leon4rdoalves>Para alunes da FATEC</a>
+  </p>
+
 </p>
 </br>
 <p align="center">  
