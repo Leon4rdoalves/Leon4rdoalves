@@ -12,7 +12,7 @@
     🟠 <a href=https://github.com/Ebony-Full-Stack>Para alunes da GENERATION</a>
   </p>
   <p align="center">
-    🚧 <a href=https://github.com/Leon4rdoalves>Para alunes da FATEC</a>
+    🚧 <a href=https://github.com/Leon4rdoalves>Para alunes da FATEC IPIRANGA</a>
   </p>
 
 </p>
