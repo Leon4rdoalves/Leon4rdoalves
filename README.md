@@ -6,10 +6,10 @@
     📌 RJ → SP  &nbsp; &nbsp; 👨🏾‍🎓 Engenharia Civil &nbsp; 🎓 Sistema de Informação 
   </p>
   <p align="center">
-    🚧 <a href=https://6324ce2141b171214b238fe4--guileless-platypus-80178b.netlify.app/>Portfólio | em desenvolvimento ;)</a>
+   📦  <a href="https://github.com/Ebony-SYS">Meus Projetos</a>
   </p>
   <p align="center">
-   📦  <a href="https://github.com/Ebony-SYS">Projetos</a>
+    🚧 <a href=https://6324ce2141b171214b238fe4--guileless-platypus-80178b.netlify.app/>Portfólio | em desenvolvimento ;)</a>
   </p>
   <p align="center">
     🚧 <a href=https://github.com/Leon4rdoalves>Para alunes da FATEC IPIRANGA</a>
