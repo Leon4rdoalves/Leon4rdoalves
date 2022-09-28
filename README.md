@@ -9,10 +9,7 @@
     🚧 <a href=https://6324ce2141b171214b238fe4--guileless-platypus-80178b.netlify.app/>Portfólio | em desenvolvimento ;)</a>
   </p>
   <p align="center">
-   📦  <a href="https://github.com/Ebony-SYS">Principais Repositórios</a>
-  </p>
-  <p align="center">
-    🟠 <a href=https://github.com/Ebony-Full-Stack>Para alunes da GENERATION</a>
+   📦  <a href="https://github.com/Ebony-SYS">Projetos</a>
   </p>
   <p align="center">
     🚧 <a href=https://github.com/Leon4rdoalves>Para alunes da FATEC IPIRANGA</a>
