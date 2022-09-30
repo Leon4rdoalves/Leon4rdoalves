@@ -9,7 +9,7 @@
    📦  <a href="https://github.com/Ebony-SYS">Meus Projetos</a>
   </p>
   <p align="center">
-    🚧 <a href=https://portfolioleonardoalves.netlify.app/portfolio.html>Portfólio | em desenvolvimento ;)</a>
+    🚧 <a href=https://portfolioleonardoalves.netlify.app>Portfólio | em desenvolvimento ;)</a>
   </p>
   <p align="center">
     🚧 <a href=https://github.com/Leon4rdoalves>Para alunes da FATEC IPIRANGA</a>
