@@ -9,10 +9,13 @@
    📦  <a href="https://github.com/Ebony-SYS">Meus Projetos</a>
   </p>
   <p align="center">
+    <a href=https://github.com/Ebony-Full-Stack>Para alunes da GENERATION BR</a>
+  </p>
+  <p align="center">
     🚧 <a href=https://portfolioleonardoalves.netlify.app>Portfólio | em desenvolvimento ;)</a>
   </p>
   <p align="center">
-    🚧 <a href=https://github.com/Leon4rdoalves>Para alunes da FATEC IPIRANGA</a>
+    🚧 <a href=https://github.com/Ebony-Full-Stack>Para alunes da FATEC IPIRANGA</a>
   </p>
 
 </p>
