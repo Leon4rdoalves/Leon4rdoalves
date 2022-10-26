@@ -6,7 +6,7 @@
     📌 RJ → SP  &nbsp; &nbsp; 👨🏾‍🎓 Engenharia Civil &nbsp; 🎓 Sistema de Informação 
   </p>
   <p align="center">
-   📦  <a href="https://github.com/Ebony-SYS">Meus Projetos</a>
+   📦  <a href="https://github.com/Ebony-SYS">Meus Projetos/Estudos</a>
   </p>
   <p align="center">
     <a href=https://github.com/Ebony-Full-Stack>Para alunes da GENERATION BR</a>
