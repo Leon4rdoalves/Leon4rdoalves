@@ -50,6 +50,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Leon4rdoalves&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 <br>
+<br>
 <p align="center"><strong> Visitas</strong> a partir de 01•01•22 :detective: <br>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Leon4rdoalves/count.svg" />
