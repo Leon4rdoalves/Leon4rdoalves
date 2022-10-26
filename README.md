@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=🖖+iaeEE!+...Sou+Leonardo+Alves+;Instrutor+e+Programador+há+9+anos...;Aqui+vc+vai+encontrar+alguns+projetos+e+estudos;Espero+que+alguns+te+ajude!;Fique+à+vontade;Puxe+uma+cadeira+e+sente-se+no+chão!+:%29)](https://git.io/typing-svg)
-
 <p align="justify" fontsize="8">
   <img align="right" color="green" alt="Ebony SyS" height="235" src="https://i.im.ge/2021/10/05/Tv8aZr.png">
   ...aliada minha é a força e poderosa aliada ela é. A vida cria, crescer ela faz, é energia que cerca nós e liga nós. Luminosos seres somos nós, não essa rude matéria, VOCÊ PRECISA A FORÇA SENTIR AO REDOR SEU.
@@ -17,7 +16,6 @@
   </p>
 </p>
 <hr/>
-
 <p align="center">  
   <strong>||Hard </strong>Skill
   <img align="center" alt="Ebony SyS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -40,7 +38,6 @@
   <a href="https://www.youtube.com/channel/UC8fRZfYGd21_D8DwuEcFuHw" target="_blank"><img align="center" alt="Ebony SyS" height="30" width="30" src="https://user-images.githubusercontent.com/52077278/135925864-5eca65eb-3cb4-48f8-a26e-26d868b3def5.png"></a>
 </p>
 <hr/>
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leon4rdoalves&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon4rdoalves&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
@@ -50,12 +47,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Leon4rdoalves&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 <br>
-<br>
 <p align="center"><strong> Visitas</strong> a partir de 01•01•22 :detective: <br>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Leon4rdoalves/count.svg" />
 </p>
-
 <p align="center">
   <strong>Cursos ONLINE</strong></br> 
   <a href="https://www.superprof.com.br/logica-programacao-tudo-voce-precisa-saber-para-ser-bom-desenvolvedor.html">Lógica de Programação</a>&nbsp; &nbsp; 
