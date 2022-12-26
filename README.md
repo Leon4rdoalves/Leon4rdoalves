@@ -12,7 +12,7 @@
     <a href=https://github.com/Ebony-Full-Stack>🧡 Para alunes da GENERATION BR 🧡</a>
   </p>
   <p align="center">
-    <a href=https://portfolioleonardoalves.netlify.app>🚧 Portfólio | em desenvolvimento ;) 🤏🏾</a>
+    <a href=https://github.com/Ebony-Full-Stack>🧡 Para alunes da RESILIA EDUCAÇÃO 🧡</a>
   </p>
 </p>
 <hr/>
