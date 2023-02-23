@@ -4,10 +4,11 @@
   ...aliada minha é a força e poderosa aliada ela é. A vida cria, crescer ela faz, é energia que cerca nós e liga nós. Luminosos seres somos nós, não essa rude matéria, VOCÊ PRECISA A FORÇA SENTIR AO REDOR SEU.
   <p align="center">
     📌 RJ → SP  &nbsp; &nbsp; 👨🏾‍🎓 Engenharia Civil &nbsp; 🎓 Sistema de Informação 
-  </p>
+  </p> 
   <p align="center">
-    <a href="https://github.com/Ebony-SYS">📦 Meus Projetos/Estudos 📦</a>
-  </p>
+    <a href="https://leonardoalves.netlify.app/">🚧 Portfolio &nbsp; &nbsp; ||  </a>
+    <a href="https://github.com/Ebony-SYS"> &nbsp; &nbsp; Projetos/Estudos 📦</a>  
+ </p>
   <p align="center">
     <a href=https://github.com/Ebony-Full-Stack>🧡 Para alunes da GENERATION BR 🧡</a>
   </p>
@@ -30,8 +31,7 @@
   <img align="center" alt="Ebony SyS" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Ebony SyS" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Ebony SyS" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;||Me encontre →  
-  <a href="https://portfolioleonardoalves.netlify.app" target="_blank"><img align="center" alt="Ebony SyS" height="30" width="30" src="https://i.imgur.com/wQpnqnf.jpg"></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|| Me encontre →  
   <a href="https://api.whatsapp.com/send?phone=5511979714423" target="_blank"><img align="center" alt="Ebony SyS" height="30" width="30" src="https://user-images.githubusercontent.com/52077278/135926000-c3344d2c-7ec3-4272-b90c-08196c24e9c4.png"></a>
   <a href="mailto:leon4rdoalvess@gmail.com" target="_blank"><img align="center" alt="Ebony SyS" height="30" width="30" src="https://user-images.githubusercontent.com/52077278/135926148-30e0cd29-92a2-46ca-ad8d-28fa6175e58a.png"></a>
   <a href="https://www.linkedin.com/in/leonardo-alves-7b5aa5152/" target="_blank"><img align="center" alt="Ebony SyS" height="30" width="30" src="https://user-images.githubusercontent.com/52077278/135925928-32dab723-cd9f-4b40-aa16-2397ff1221b3.png"></a>
