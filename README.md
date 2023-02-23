@@ -61,6 +61,7 @@
   <a href="https://www.superprof.com.br/aulas-banco-dados-sql-basico-avancado-com-exercicios-para-dominio-das-rotinas.html">Banco de Dados</a>
 </p>
 
+![snake gif](https://github.com/Leon4rdoalves/Leon4rdoalves/blob/output/github-contribution-grid-snake.svg)
 
 
 
