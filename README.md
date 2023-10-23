@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=🖖+iaeEE!+...Sou+Leonardo+Alves+;Instrutor+e+Programador+há+9+anos...;Aqui+vc+vai+encontrar+alguns+projetos+e+estudos;Espero+que+algum+te+ajude!;Fique+à+vontade!;Puxe+uma+cadeira+e+sente-se+no+chão!+:%29)](https://git.io/typing-svg)
 <p align="justify" fontsize="8">
-  <img align="right" color="green" alt="Ebony SyS" height="235" src="https://i.im.ge/2021/10/05/Tv8aZr.png">
+  <img align="right" color="green" alt="Ebony SyS" height="235" src="https://i.imgur.com/tyrhG9v.png">
   ...aliada minha é a força e poderosa aliada ela é. A vida cria, crescer ela faz, é energia que cerca nós e liga nós. Luminosos seres somos nós, não essa rude matéria, VOCÊ PRECISA A FORÇA SENTIR AO REDOR SEU.
   <p align="center">
     📌 RJ → SP  &nbsp; &nbsp; 👨🏾‍🎓 Engenharia Civil &nbsp; 🎓 Sistema de Informação 
