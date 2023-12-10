@@ -15,9 +15,6 @@
   <p align="center">
     <a href=https://github.com/Resilia-por-Ebony>💛 Para alunos(as) da RESILIA EDUCAÇÃO 💛</a>
   </p>
-   <p align="center">
-    <a href=https://github.com/Clarify-Python>💛 Para alunos(as) da CLARIFY 💛</a>
-  </p>
 </p>
 <hr/>
 <p align="center">  
